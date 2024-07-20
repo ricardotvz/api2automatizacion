@@ -1,0 +1,22 @@
+{
+    "OrderID": 123456,
+    "Address": "Calle Principal 123",
+    "Status": "En tránsito",
+    "Articles": [
+      {
+        "Name": "Laptop",
+        "Quantity": 1,
+        "Dangerous": false
+      },
+      {
+        "Name": "Smartphone",
+        "Quantity": 2,
+        "Dangerous": false
+      },
+      {
+        "Name": "Baterías",
+        "Quantity": 4,
+        "Dangerous": true
+      }
+    ]
+  }
